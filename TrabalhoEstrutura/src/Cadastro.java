@@ -13,6 +13,7 @@ public class Cadastro {
 		int op = 0;
 		while (op != 3) {
 			System.out.println("");
+			System.out.println("");
 			System.out.println("1 - Cadastrar uma aluno");
 			System.out.println("2 - Outros");
 			System.out.println("3 - Sair");
